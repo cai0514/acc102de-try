@@ -23,9 +23,7 @@ This interactive dashboard provides finance students and junior analysts with an
 - Sector average returns remained consistent across the 2021-2025 period
 
 ## 5. How to run
-1. Install dependencies: pip install streamlit pandas matplotlib
-2. Execute the application: streamlit run app.py
-3. Access the dashboard in your browser at the provided local URL
+1. Execute the application: streamlit run app.py
 
 ## 6. Product link / Demo
 This is a local desktop application. Run the code locally to access the full interactive demo.
