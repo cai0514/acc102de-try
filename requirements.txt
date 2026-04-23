@@ -1,3 +1,4 @@
-streamlit
-pandas
-matplotlib
+# Required Python Libraries for S&P 500 Consumer Staples Analysis
+streamlit>=1.30.0
+pandas>=2.0.0
+matplotlib>=3.7.0
